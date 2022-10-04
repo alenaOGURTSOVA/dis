@@ -200,8 +200,8 @@
 }
 #nav-container {
   position: absolute;
-  top: ?; 
-  left: ?;
+  top: 20%; 
+  left: 60%;
   transform: translate(-50%, -50%);
   z-index: 2000;
   transition: 1s ease-out;
